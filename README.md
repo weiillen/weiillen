@@ -22,11 +22,7 @@
 
 ---
 
-## ⚙️ what i'm into
-- computer architecture & digital design  
-- high-performance computing & systems  
-- networking, cryptography, and low-level problem solving  
-- machine learning projects with real engineering constraints  
+
 
 ## 🧰 toolbox
 <p>
