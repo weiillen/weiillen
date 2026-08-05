@@ -1,8 +1,9 @@
+<h1 align="center">hey, i'm TING-YU TSAI 👋</h1>
+
 <p align="center">
   <img src="./assets/undefined - Imgur.gif" alt="profile banner" width="100%" />
 </p>
 
-<h1 align="center">hey, i'm TING-YU TSAI 👋</h1>
 
 <p align="center">
   EECS undergraduate at <strong>National Tsing Hua University</strong><br/>
