@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm William
 
 <p align="center">
-  <img alt="Profile banner" width="800" src="./assets/profile-banner.png"/>
+  <img alt="Profile banner" width="800" src="./assets/undefined - Imgur.gif"/>
 </p>
 
 🎓 **Bachelor of Electrical Engineering and Computer Science** student at **National Tsing Hua University** in Taiwan 🇹🇼.  
