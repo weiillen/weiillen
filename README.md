@@ -29,28 +29,3 @@
 
 ---
 
-## 📊 Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weiillen&langs_count=8&layout=compact&theme=radical)
-![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weiillen&show_icons=true&theme=radical)
-
----
-
-## 📬 Let's Connect!
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/weiillen">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub">
-      </a>
-      <br/>
-      <sub>GitHub</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/weiillen?tab=repositories">
-        <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" height="32" alt="Repositories">
-      </a>
-      <br/>
-      <sub>Repositories</sub>
-    </td>
-  </tr>
-</table>
