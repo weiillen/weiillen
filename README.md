@@ -4,7 +4,7 @@
   <img alt="Profile banner" width="800" src="./assets/undefined - Imgur (1).gif"/>
 </p>
 
-🎓 **Bachelor of Electrical Engineering and Computer Science** student in Taiwan 🇹🇼.  
+🎓 **Bachelor of Electrical Engineering and Computer Science**.  
 💡 Interested in the space between **hardware and software**: computer architecture, digital logic, electronics, systems performance, networking, and applied machine learning.  
 🎨 Outside academics, I enjoy **drawing**, rapping, calisthenics, anime/manga, and mecha.  
 🌱 Currently turning coursework into clear, reproducible engineering projects while strengthening my electrical engineering and computer science fundamentals.
