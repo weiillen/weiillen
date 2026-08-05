@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Ting-Yu (aka Willem)
 
 <p align="center">
-  <img alt="Profile banner" width="800" src="./assets/ghost-in-the-shell-stand-alone-complex.gif"/>
+  <img alt="Profile banner" width="800" src="./assets/undefined - Imgur (1).gif"/>
 </p>
 
 🎓 **Bachelor of Electrical Engineering and Computer Science** student in Taiwan 🇹🇼.  
