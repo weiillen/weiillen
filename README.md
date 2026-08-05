@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Projects-View%20my%20repositories-181717?style=flat-square&logo=github" alt="View my repositories" />
   </a>
   <img src="https://img.shields.io/badge/Location-Taiwan-0F766E?style=flat-square" alt="Based in Taiwan" />
-  <img src="https://img.shields.io/badge/Focus-Computer%20Engineering-2563EB?style=flat-square" alt="Computer Engineering" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Engineering-2563EB?style=flat-square"  />
 </p>
 
 ## About me
