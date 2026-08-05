@@ -6,6 +6,7 @@
 
 🎓 **Bachelor of Electrical Engineering and Computer Science**.  
 💡 Interested in building across the **hardware to software** boundary, spanning electronics, digital logic, computer architecture, high-performance systems, networking, and applied machine learning.
+
 🎨 Outside academics, I enjoy **drawing**, rapping, calisthenics, anime/manga, and mecha.  
 🌱 Currently turning coursework into clear, reproducible engineering projects while strengthening my electrical engineering and computer science fundamentals.
 
