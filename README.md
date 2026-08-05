@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.png" alt="profile banner" width="100%" />
 </p>
 
-<h1 align="center">hey, i'm william 👋</h1>
+<h1 align="center">hey, i'm TING-YU TSAI 👋</h1>
 
 <p align="center">
   EECS undergraduate at <strong>National Tsing Hua University</strong><br/>
