@@ -35,14 +35,5 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" alt="MATLAB" />
 </p>
 
-## 📈 github
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=weiillen&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiillen&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-## 📬 contact
-- GitHub: [@weiillen](https://github.com/weiillen)
-- Email: add your preferred email here
 
 > still learning, still building.
