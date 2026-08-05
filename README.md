@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Willem
+# 👋 Hello, World! I'm Ting-Yu (aka Willem)
 
 <p align="center">
   <img alt="Profile banner" width="800" src="./assets/undefined - Imgur.gif"/>
