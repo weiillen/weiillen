@@ -1,4 +1,4 @@
-# 👋 What's Good, World? I'm Ting-Yu (aka Willem)
+# 👋 What's Good, World? Ting-Yu (aka Willem) Online
 
 <p align="center">
   <img alt="Profile banner" width="800" src="./assets/undefined - Imgur (1).gif"/>
