@@ -5,9 +5,8 @@
 </p>
 
 🎓 **Bachelor of Electrical Engineering and Computer Science** student at **National Tsing Hua University** in Taiwan 🇹🇼.  
-💡 Interested in the space between **hardware and software** — computer architecture, digital logic, electronics, systems performance, networking, and applied machine learning.  
-🛠️ My repositories include work with **Verilog RTL**, cache simulation, **MPI/OpenMP/GPU** performance studies, LTspice circuit analysis, network protocols, cryptography, and computer vision.  
-🎨 Outside academics, I enjoy **drawing**, **gaming**, anime, and mecha.  
+💡 Interested in the space between **hardware and software**: computer architecture, digital logic, electronics, systems performance, networking, and applied machine learning.  
+🎨 Outside academics, I enjoy **drawing**, calisthenics, anime, and mecha.  
 🌱 Currently turning coursework into clear, reproducible engineering projects while strengthening my computer-engineering fundamentals.
 
 📂 Projects: [View my repositories](https://github.com/weiillen?tab=repositories)
