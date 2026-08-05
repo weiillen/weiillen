@@ -17,10 +17,7 @@
   <img src="https://img.shields.io/badge/NTHU-1F2937?style=for-the-badge" alt="NTHU" />
 </p>
 
-<p align="center">
-  I like projects that sit between <strong>software and hardware</strong> —<br/>
-  the kind where you have to build, test, debug, and actually make things work.
-</p>
+
 
 ---
 
