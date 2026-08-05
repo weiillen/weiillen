@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm William
+# 👋 Hello, World! I'm Willem
 
 <p align="center">
   <img alt="Profile banner" width="800" src="./assets/undefined - Imgur.gif"/>
