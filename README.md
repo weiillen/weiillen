@@ -1,4 +1,3 @@
-[README(20260805-215042).md](https://github.com/user-attachments/files/30763189/README.20260805-215042.md)
 <p align="center">
   <img src="./assets/profile-banner.png" alt="Cybernetic anime character reaching toward the viewer" width="100%" />
 </p>
