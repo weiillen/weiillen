@@ -6,7 +6,7 @@
 
 🎓 **Electrical Engineering and Computer Science undergraduate** at National Tsing Hua University.  
 💡 Interested in building across the **hardware–software boundary**, from electronics and digital logic to computer architecture, high-performance systems, and applied machine learning.  
-🎨 Outside of engineering, I enjoy **drawing, rapping, calisthenics, anime, manga, and mecha**.  
+🎨 Outside of engineering, I enjoy drawing, rapping, calisthenics, anime, manga, and mecha.  
 🌱 Currently turning coursework into **clear, reproducible engineering projects** while strengthening my EECS fundamentals.
 
 📂 Projects: [View my repositories](https://github.com/weiillen?tab=repositories)
