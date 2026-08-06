@@ -4,7 +4,7 @@
   <img alt="Profile banner" width="800" src="./assets/undefined - Imgur (1).gif"/>
 </p>
 
-🎓 **Electrical Engineering and Computer Science undergraduate**.  
+🎓 **Bachelor of Electrical Engineering and Computer Science** student.  
 💡 Interested in both sides of EECS from **electronics** to **systems** and **machine learning**.  
 🎨 Outside of engineering, I enjoy **drawing, rapping**, calisthenics, and manga.  
 🌱 Currently turning what I learn in class into clear, reproducible projects and strengthening my foundations across EECS.
