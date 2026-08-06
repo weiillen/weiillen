@@ -6,7 +6,7 @@
 
 🎓 **Bachelor of Electrical Engineering and Computer Science** student.  
 💡 Interested in both sides of EECS from **electronics** to **systems** and **machine learning**.  
-🎨 Outside of engineering, I enjoy **drawing, rapping**, calisthenics, and manga.  
+🎨 Outside of engineering, I enjoy **drawing, rapping**, calisthenics, and visual media.  
 🌱 Currently turning what I learn in class into clear, reproducible projects and strengthening my foundations across EECS.
 
 📂 Projects: [View my repositories](https://github.com/weiillen?tab=repositories)
